@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6318354.css",
+    "main.js": "/static/js/main.e3dd043a.js",
+    "static/js/787.a9d2e6b2.chunk.js": "/static/js/787.a9d2e6b2.chunk.js",
+    "static/media/error1.jpg": "/static/media/error1.a11b1f1b097ab8e61c94.jpg",
+    "static/media/logo.png": "/static/media/logo.d3f13135103e4edee84b.png",
+    "static/media/logo-gratia.png": "/static/media/logo-gratia.71c5bd2398b26e6810b8.png",
+    "static/media/attendance.png": "/static/media/attendance.7a1ad24a6d1f0a9fe7a5.png",
+    "static/media/registerOut.png": "/static/media/registerOut.afd863fc0988d47b60b0.png",
+    "static/media/registerIn.png": "/static/media/registerIn.724155dc236bd8912b6d.png",
+    "static/media/activities.png": "/static/media/activities.98a2e17a74a9eae20b0b.png",
+    "index.html": "/index.html",
+    "main.d6318354.css.map": "/static/css/main.d6318354.css.map",
+    "main.e3dd043a.js.map": "/static/js/main.e3dd043a.js.map",
+    "787.a9d2e6b2.chunk.js.map": "/static/js/787.a9d2e6b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6318354.css",
+    "static/js/main.e3dd043a.js"
+  ]
+}
